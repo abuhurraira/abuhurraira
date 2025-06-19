@@ -2,14 +2,14 @@
 
 ## Muhammad Abuhurraira
 
-I'm a **frontend developer** from Pakistan with a strong passion for **cybersecurity**. I specialize in building modern, responsive, and user-friendly web applications using cutting-edge technologies. Currently, I'm pursuing my **Master of Information Technology (Cyber Security)** at Whitecliffe College, Auckland, where I aim to combine my skills in development with cybersecurity expertise to deliver secure and efficient solutions.
+I'm a **web developer** with a strong passion for **cybersecurity**. I specialize in building modern, responsive, and user-friendly web applications using cutting-edge technologies. Currently, I'm pursuing my **Master of Information Technology (Cyber Security)** at Whitecliffe College, Auckland, where I aim to combine my skills in development with cybersecurity expertise to deliver secure and efficient solutions.
 
 ---
 
 ### 🚀 About Me:
 - 🌏 Based in **New Zealand**.
 - 🎓 Pursuing **MIT (Cyber Security)** at Whitecliffe College, Auckland.
-- 💻 Passionate about **frontend development** and **cybersecurity**.
+- 💻 Passionate about **web development** and **cybersecurity**.
 - 🌟 Always eager to learn new technologies and improve my skills.
 
 ---
